@@ -84,12 +84,12 @@
                             }, n.a.createElement("ul", {
                                 className: "social"
                             }, n.a.createElement("li", null, n.a.createElement("a", {
-                                href: "https://www.instagram.com/j.nyozu",
+                                href: "https://www.instagram.com/alberto.garcia.sanchez/?hl=es",
                                 target: "_blank"
                             }, n.a.createElement("i", {
                                 className: "fa fa-instagram"
                             }))), n.a.createElement("li", null, n.a.createElement("a", {
-                                href: "https://github.com/jin-hyojoo",
+                                href: "https://github.com/AlbertoGarciaSanchez",
                                 target: "_blank"
                             }, n.a.createElement("i", {
                                 className: "fa fa-github"
@@ -100,7 +100,7 @@
                                 className: "fa fa-camera-retro"
                             })))), n.a.createElement("hr", null), n.a.createElement(g.a, {
                                 animation: "pulse"
-                            }, n.a.createElement("h3", null, "Hello\ud83d\udc4b I'm a Front-End Developer curious about new technologies", n.a.createElement("br", null), "If possible, I wanna know more about Back-End Developer. Will it be possible? \ud83d\ude0e"))), n.a.createElement("div", {
+                            }, n.a.createElement("h3", null, "Hello\ud83d\udc4b I'm a Full-Stack Developer curious about new technologies", n.a.createElement("br", null), "My specialization throughout my professional life has been in the field of aeronautics, but I am interested in all kinds of sectors. \ud83d\ude0e"))), n.a.createElement("div", {
                                 className: "scrollBtn"
                             }, n.a.createElement("p", {
                                 className: "scrolldown"
@@ -137,7 +137,7 @@
                                 duration: "3s"
                             }, n.a.createElement("div", {
                                 className: "sentense"
-                            }, "Better do your best than regret!"))), n.a.createElement("div", {
+                            }, "Talent wins games, but teamwork and intelligence wins championships"))), n.a.createElement("div", {
                                 className: "nine columns main-col"
                             }, n.a.createElement("h2", null, n.a.createElement("span", null, "ABOUT")), n.a.createElement("p", null, "A technology lover from a very young age, I discovered programming languages in high school, specifically Actionscript 2.0, it was my first contact without having any prior knowledge of programming. I was so fascinated by the amount of possibilities for creating that I decided to study the degree of computer software engineering in Seville. While it is a rapidly evolving field, I work hard to keep moving forward with the goal of studying consistently, something that has always excited me. "
 							, n.a.createElement("br", null), n.a.createElement("br", null), "As hobbies I consider myself a person with too many, from sports (I love racket sports) to video games, board games, reading, drawing and painting ... I think what I like to do the most is to create, I don't care about what, but from an idea to work so that it finally becomes something real to which you have dedicated time and effort seems to me something very exciting. "
@@ -177,8 +177,20 @@
                             })), n.a.createElement("li", null, n.a.createElement("img", {
                                 className: "p-pic",
                                 src: "./images/skills/python_language.png",
-                                alt: "p"
+                                alt: "python_language"
+                            })),n.a.createElement("li", null, n.a.createElement("img", {
+                                className: "p-pic",
+                                src: "./images/skills/c_sharp.png",
+                                alt: "c_sharp"
                             })), n.a.createElement("li", null, n.a.createElement("img", {
+                                className: "p-pic",
+                                src: "./images/skills/c_language.png",
+                                alt: "c_language"
+                            })), n.a.createElement("li", null, n.a.createElement("img", {
+                                className: "p-pic",
+                                src: "./images/skills/c_plusplus.png",
+                                alt: "c_plusplus"
+                            })),  n.a.createElement("li", null, n.a.createElement("img", {
                                 className: "html-pic",
                                 src: "./images/skills/html_language.png",
                                 alt: "html"
@@ -195,10 +207,6 @@
                                 src: "./images/skills/spring_framwork.png",
                                 alt: "spring"
                             })), n.a.createElement("li", null, n.a.createElement("img", {
-                                className: "react-pic",
-                                src: "./images/skills/react_library.png",
-                                alt: "react"
-                            })), n.a.createElement("li", null, n.a.createElement("img", {
                                 className: "sql-pic",
                                 src: "./images/skills/sql_language.png",
                                 alt: "sql"
@@ -211,10 +219,24 @@
                                 src: "./images/skills/photoshop.png",
                                 alt: "photoshop"
                             })), n.a.createElement("li", null, n.a.createElement("img", {
-                                className: "light-pic",
-                                src: "./images/skills/Lightroom.png",
-                                alt: "lightroom"
-                            }))))), " ")))
+                                className: "git-pic",
+                                src: "./images/skills/jenkins.png",
+                                alt: "jenkins"
+                            })),  n.a.createElement("li", null, n.a.createElement("img", {
+                                className: "git-pic",
+                                src: "./images/skills/qt.png",
+                                alt: "qt"
+                            })),  n.a.createElement("li", null, n.a.createElement("img", {
+                                className: "git-pic",
+                                src: "./images/skills/agile.png",
+                                alt: "agile"
+                            })),  n.a.createElement("li", null, n.a.createElement("img", {
+                                className: "git-pic",
+                                src: "./images/skills/unity.png",
+                                alt: "unity"
+                            }))
+							
+							))), " ")))
                         }
                     }]), l
                 }(t.Component),
