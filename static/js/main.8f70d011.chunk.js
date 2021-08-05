@@ -567,7 +567,7 @@
                                 class: "ncs-images",
                                 src: "./images/fivefingers/realpet_gps_form3.jpg",
                                 alt: "realpet_form3"
-                            }), "\xa0", n.a.createElement("br", null), "< \uce90\ub9ad\ud130 \ub514\uc790\uc778 \xb7 \ub9ac\uc5bc\ud3ab \uae30\ud68d - 2016 \uc704\uce58\uae30\ubc18 \uc571/\uc6f9 \uc544\uc774\ub514\uc5b4 \uacf5\ubaa8\uc804 \ucc38\uac00\uc2e0\uccad\uc11c >"), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2012"), "I entered Seville University, Computer Software degree.")))))))
+                            }), "\xa0", n.a.createElement("br", null), "< \uce90\ub9ad\ud130 \ub514\uc790\uc778 \xb7 \ub9ac\uc5bc\ud3ab \uae30\ud68d - 2016 \uc704\uce58\uae30\ubc18 \uc571/\uc6f9 \uc544\uc774\ub514\uc5b4 \uacf5\ubaa8\uc804 \ucc38\uac00\uc2e0\uccad\uc11c >"), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2012"), "\u2003\u2003\u2003\u2003\u2003\uc11c\uc77c\ub300\ud559\uad50 I entered Seville University, Computer Software degree.")))))))
                         }
                     }]), l
                 }(t.Component),
