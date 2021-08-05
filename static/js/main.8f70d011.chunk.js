@@ -141,7 +141,7 @@
                                 className: "nine columns main-col"
                             }, n.a.createElement("h2", null, n.a.createElement("span", null, "ABOUT")), n.a.createElement("p", null, "A technology lover from a very young age, I discovered programming languages in high school, specifically Actionscript 2.0, it was my first contact without having any prior knowledge of programming. I was so fascinated by the amount of possibilities for creating that I decided to study the degree of computer software engineering in Seville. While it is a rapidly evolving field, I work hard to keep moving forward with the goal of studying consistently, something that has always excited me. "
 							, n.a.createElement("br", null), n.a.createElement("br", null), "As hobbies I consider myself a person with too many, from sports (I love racket sports) to video games, board games, reading, drawing and painting ... I think what I like to do the most is to create, I don't care about what, but from an idea to work so that it finally becomes something real to which you have dedicated time and effort seems to me something very exciting. "
-							)), "  ")))
+							), "  "), "  ")))
                         }
                     }]), l
                 }(t.Component),
