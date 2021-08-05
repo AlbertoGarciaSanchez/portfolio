@@ -94,10 +94,10 @@
                             }, n.a.createElement("i", {
                                 className: "fa fa-github"
                             }))), n.a.createElement("li", null, n.a.createElement("a", {
-                                href: "https://nyozu.creatorlink.net/",
+                                href: "https://www.linkedin.com/in/alberto-garsan/",
                                 target: "_blank"
                             }, n.a.createElement("i", {
-                                className: "fa fa-camera-retro"
+                                className: "fab fa-linkedin"
                             })))), n.a.createElement("hr", null), n.a.createElement(g.a, {
                                 animation: "pulse"
                             }, n.a.createElement("h3", null, "Hello\ud83d\udc4b I'm a Full-Stack Developer curious about new technologies", n.a.createElement("br", null), "My specialization throughout my professional life has been in the field of aeronautics, but I am interested in all kinds of sectors. \ud83d\ude0e"))), n.a.createElement("div", {
@@ -588,9 +588,9 @@
                                 duration: "1.2s"
                             }, n.a.createElement("h3", null, n.a.createElement("span", null, "CONTACT")), n.a.createElement("p", {
                                 className: "address"
-                            }, n.a.createElement("span", null, "\ud83e\udd17 \uc9c4\ud6a8\uc8fc Jin HyooJoo\xa0\xa0\xa0\xa0"), n.a.createElement("span", null, "\ud83c\udfe1 Dongdaemoon-Gu, Seoul,  \ud83c\uddf0\ud83c\uddf7"), n.a.createElement("br", null), n.a.createElement("span", null, "\ud83d\udcf1 (+82)  010 - 5507 - 7996\xa0\xa0\xa0\xa0\xa0\xa0\xa0"), n.a.createElement("span", null, n.a.createElement("a", {
-                                href: "mailto:hyojoo_97@naver.com"
-                            }, "\ud83c\udf3c \xa0hyojoo_97@naver.com")))))
+                            }, n.a.createElement("span", null, "\ud83e\udd17 Alberto García Sánchez \xa0\xa0\xa0\xa0"), n.a.createElement("span", null, "\ud83c\udfe1 Alcalá de Guadaira, Sevilla, España \uD83C\uDDEA\uD83C\uDDF8"), n.a.createElement("br", null), n.a.createElement("span", null, "\ud83d\udcf1 (+34)  633 80 11 28\xa0\xa0\xa0\xa0\xa0\xa0\xa0"), n.a.createElement("span", null, n.a.createElement("a", {
+                                href: "mailto:albgarsanuni@gmail.com"
+                            }, "\ud83c\udf3c \xa0albgarsanuni@gmail.com")))))
                         }
                     }]), l
                 }(t.Component),
@@ -623,27 +623,25 @@
                             }, n.a.createElement("ul", {
                                 className: "social-links"
                             }, n.a.createElement("li", null, n.a.createElement("a", {
-                                href: "https://www.instagram.com/j.nyozu",
+                                href: "https://www.instagram.com/alberto.garcia.sanchez/?hl=es",
                                 target: "_blank"
                             }, n.a.createElement("i", {
                                 className: "fa fa-instagram"
                             }))), n.a.createElement("li", null, n.a.createElement("a", {
-                                href: "https://github.com/jin-hyojoo",
+                                href: "https://github.com/AlbertoGarciaSanchez",
                                 target: "_blank"
                             }, n.a.createElement("i", {
                                 className: "fa fa-github"
                             }))), n.a.createElement("li", null, n.a.createElement("a", {
-                                href: "https://nyozu.creatorlink.net/",
+                                href: "https://www.linkedin.com/in/alberto-garsan/",
                                 target: "_blank"
                             }, n.a.createElement("i", {
-                                className: "fa fa-camera-retro"
+                                className: "fab fa-linkedin"
                             })))), n.a.createElement("ul", {
                                 className: "copyright"
-                            }, n.a.createElement("li", null, "\xa9 Copyright 2020 Jin-HyoJoo All rights reserved."), n.a.createElement("li", null, n.a.createElement("a", {
-                                title: "Styleshout",
-                                href: "https://www.styleshout.com/demo/?theme=ceevee",
+                            }, n.a.createElement("li", null, "\xa9 Copyright 2021 Alberto García All rights reserved."), n.a.createElement("li", null, n.a.createElement("a", {
                                 target: "_blank"
-                            }, "Original Design source  : Styleshout")))), n.a.createElement("div", {
+                            }, "Thak you for visiting!")))), n.a.createElement("div", {
                                 id: "go-top"
                             }, n.a.createElement("a", {
                                 className: "smoothscroll",
