@@ -97,7 +97,7 @@
                                 href: "https://www.linkedin.com/in/alberto-garsan/",
                                 target: "_blank"
                             }, n.a.createElement("i", {
-                                className: "fab fa-linkedin"
+                                className: "fa fa-linkedin"
                             })))), n.a.createElement("hr", null), n.a.createElement(g.a, {
                                 animation: "pulse"
                             }, n.a.createElement("h3", null, "Hello\ud83d\udc4b I'm a Full-Stack Developer curious about new technologies", n.a.createElement("br", null), "My specialization throughout my professional life has been in the field of aeronautics, but I am interested in all kinds of sectors. \ud83d\ude0e"))), n.a.createElement("div", {
@@ -636,7 +636,7 @@
                                 href: "https://www.linkedin.com/in/alberto-garsan/",
                                 target: "_blank"
                             }, n.a.createElement("i", {
-                                className: "fab fa-linkedin"
+                                className: "fa fa-linkedin"
                             })))), n.a.createElement("ul", {
                                 className: "copyright"
                             }, n.a.createElement("li", null, "\xa9 Copyright 2021 Alberto García All rights reserved."), n.a.createElement("li", null, n.a.createElement("a", {
