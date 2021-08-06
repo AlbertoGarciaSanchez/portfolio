@@ -555,15 +555,12 @@
                                 src: "./images/tfg/tfg_1.png",
                                 alt: "tfg_1"
                             }), "\xa0", n.a.createElement("img", {
-                                class: "ncs-images",
                                 src: "./images/tfg/tfg_2.png",
                                 alt: "tfg_2"
                             }), "\xa0", n.a.createElement("img", {
-                                class: "ncs-images",
                                 src: "./images/tfg/tfg_3.png",
                                 alt: "tfg_3"
                             }), "\xa0", n.a.createElement("img", {
-                                class: "ncs-images",
                                 src: "./images/tfg/tfg_4.png",
                                 alt: "tfg_4"
                             }), "\xa0", n.a.createElement("br", null), ""), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2012"), "\u2003\u2003\u2003\u2003\u2003  I entered Seville University, Computer Software degree.")))))))
