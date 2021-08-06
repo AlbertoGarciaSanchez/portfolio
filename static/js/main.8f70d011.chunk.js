@@ -552,7 +552,6 @@
                             }, n.a.createElement("p", null, "This final project was my first contact with videogame development engines. In it, we applied the knowledge of computer engineering development to make a proof of concept of a 3D videogame. For planning we used Trello in a similar way to agile methodologies. Also, we made from mockups of the different parts of the user interface, to automatic generation of terrain elevations with heightmaps.", n.a.createElement("br", null), n.a.createElement("br", null), "Technically, the first thing was to get to know the class structure offered by Unity, which is centered on objects called GameObject, which are formed by Components. All of this formed a versatile structure to configure 3D elements, scripts, textures, etc."), n.a.createElement("p", null, n.a.createElement("span", {
 							    class: "my-highlight"
                             }, "Here are some screenshots"), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "ncs-images",
                                 src: "./images/tfg/tfg_1.png",
                                 alt: "tfg_1"
                             }), "\xa0", n.a.createElement("img", {
@@ -567,7 +566,7 @@
                                 class: "ncs-images",
                                 src: "./images/tfg/tfg_4.png",
                                 alt: "tfg_4"
-                            }), "\xa0", n.a.createElement("br", null), "< \uce90\ub9ad\ud130 \ub514\uc790\uc778 \xb7 \ub9ac\uc5bc\ud3ab \uae30\ud68d - 2016 \uc704\uce58\uae30\ubc18 \uc571/\uc6f9 \uc544\uc774\ub514\uc5b4 \uacf5\ubaa8\uc804 \ucc38\uac00\uc2e0\uccad\uc11c >"), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2012"), "\u2003\u2003\u2003\u2003\u2003  I entered Seville University, Computer Software degree.")))))))
+                            }), "\xa0", n.a.createElement("br", null), ""), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2012"), "\u2003\u2003\u2003\u2003\u2003  I entered Seville University, Computer Software degree.")))))))
                         }
                     }]), l
                 }(t.Component),
