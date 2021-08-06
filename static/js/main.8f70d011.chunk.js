@@ -553,19 +553,19 @@
 							    class: "my-highlight"
                             }, "Here are some screenshots"), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("img", {
                                 class: "ncs-images",
-                                src: "./images/tfg/tfg_1.jpg",
+                                src: "./images/tfg/tfg_1.png",
                                 alt: "tfg_1"
                             }), "\xa0", n.a.createElement("img", {
                                 class: "ncs-images",
-                                src: "./images/tfg/tfg_2.jpg",
+                                src: "./images/tfg/tfg_2.png",
                                 alt: "tfg_2"
                             }), "\xa0", n.a.createElement("img", {
                                 class: "ncs-images",
-                                src: "./images/tfg/tfg_3.jpg",
+                                src: "./images/tfg/tfg_3.png",
                                 alt: "tfg_3"
                             }), "\xa0", n.a.createElement("img", {
                                 class: "ncs-images",
-                                src: "./images/tfg/tfg_4.jpg",
+                                src: "./images/tfg/tfg_4.png",
                                 alt: "tfg_4"
                             }), "\xa0", n.a.createElement("br", null), "< \uce90\ub9ad\ud130 \ub514\uc790\uc778 \xb7 \ub9ac\uc5bc\ud3ab \uae30\ud68d - 2016 \uc704\uce58\uae30\ubc18 \uc571/\uc6f9 \uc544\uc774\ub514\uc5b4 \uacf5\ubaa8\uc804 \ucc38\uac00\uc2e0\uccad\uc11c >"), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2012"), "\u2003\u2003\u2003\u2003\u2003  I entered Seville University, Computer Software degree.")))))))
                         }
