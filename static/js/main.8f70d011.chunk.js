@@ -549,25 +549,25 @@
                                 alt: "ncs_pamphlet_cover2"
                             })), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2015-2016"), "\u2003\u2003\u2003Final Degree Project")), n.a.createElement(h.e, null, n.a.createElement("div", {
                                 class: "info-20160512"
-                            }, n.a.createElement("p", null, "\ub450 \uac1c\uc758 \ud504\ub85c\uc81d\ud2b8\ub97c \uad50\uc218\ub2d8 \ud55c \ubd84, \uc120\ubc30 5\ubd84, \ub3d9\uae30 1\uba85\uacfc \uc9c4\ud589\ud55c \ub3d9\uc544\ub9ac \ud65c\ub3d9\uc785\ub2c8\ub2e4. \ud558\uc2a4\uc2a4\ud1a4 \uce74\ub4dc\uac8c\uc784\uc5d0 \ud654\ud559\uc744 \uc811\ubaa9\uc2dc\ud0a8 \uae30\ub2a5\uc131 \uac8c\uc784 \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c \uae30\ud68d\xb7\ub514\uc790\uc778 \uc218\uc815\uc5d0 \ucc38\uc5ec\ud588\uace0 <16\ub144 \ucd94\uacc4 \ud55c\uad6d \uac8c\uc784\ud559\ud68c \ucd1d\ud68c \ubc0f \ud559\uc220 \ubc1c\ud45c\ub300\ud68c>\uc5d0\uc11c \ub3d9\uc0c1\uc744 \uc218\uc0c1\ud588\uc2b5\ub2c8\ub2e4. \ub9ac\uc5bc\ud3ab \ubaa8\ubc14\uc77c \uac8c\uc784 \ud504\ub85c\uc81d\ud2b8 \uc5ed\uc2dc \uc804\uccb4 \uae30\ud68d\xb7\ub514\uc790\uc778\uc5d0 \ucc38\uc5ec\ud558\uc600\uc2b5\ub2c8\ub2e4. \uc720\uae30\ub3d9\ubb3c\uc744 \uad6c\uc81c\ud558\ub294 \ubc29\ud5a5\ubcf4\ub2e4 \uadfc\ubcf8\uc801\uc778 \ubc1c\uc0dd \uc6d0\uc778 \ud574\uacb0\uc744 \ubaa9\ud45c\ub85c \ubc18\ub824\ub3d9\ubb3c\uacfc \ud568\uaed8 \ud558\ub294 \uac74 \uc2e0\uc911\ud574\uc57c \ud55c\ub2e4\ub294 \uacbd\uac01\uc2ec\uc744 \uc77c\uae68\uc6cc\uc8fc\ub294 \uae30\ub2a5\uc131 \uac8c\uc784\uc785\ub2c8\ub2e4.", n.a.createElement("br", null), n.a.createElement("br", null), "\ud504\ub85c\uc81d\ud2b8\ub97c \uc131\uacf5\uc801\uc73c\ub85c \uc774\ub04c\uc5b4 \uac00\uae30 \uc704\ud574 \ud68c\uc758, \ub300\ud654, \ubb38\uc11c\ub97c \uc791\uc131\ud558\ub2e4 \ubcf4\ub2c8 \uac1c\ubc1c-\ub514\uc790\uc778-\uae30\ud68d \ubd84\uc57c \ub4f1 \uc5ec\ub7ec \ud300\uc6d0\ub4e4\uacfc\uc758 \uc6d0\ud65c\ud55c \uc758\uc0ac\uc18c\ud1b5\uc5d0 \ub300\ud574 \ub9ce\uc740 \uc0dd\uac01\uc744 \ud558\uac8c \ub410\uc2b5\ub2c8\ub2e4. \ub2e4\ub978 \uc2dc\uac01, \uc5ec\ub7ec \uacac\ud574\uac00 \ubaa8\uc778 \uc758\uacac \uacf5\uc720\ub294 \uc88b\uc740 \ud504\ub85c\uc81d\ud2b8\ub97c \uc644\uc131\uc2dc\ud0a8\ub2e4\ub294 \uae68\ub2ec\uc74c\uc744 \uc5bb\uac8c \ub418\uc5c8\uace0 \ub300\ud559 \ud6c4 \ubc14\ub85c \ucc38\uc5ec\ud55c \ub3d9\uc544\ub9ac \ud65c\ub3d9\uc774\ub77c \uac1c\uc778\uc801\uc73c\ub85c \ub73b\uae4a\uc2b5\ub2c8\ub2e4."), n.a.createElement("p", null, n.a.createElement("span", {
+                            }, n.a.createElement("p", null, "This final project was my first contact with videogame development engines. In it, we applied the knowledge of computer engineering development to make a proof of concept of a 3D videogame. For planning we used Trello in a similar way to agile methodologies. Also, we made from mockups of the different parts of the user interface, to automatic generation of terrain elevations with heightmaps.", n.a.createElement("br", null), n.a.createElement("br", null), "Technically, the first thing was to get to know the class structure offered by Unity, which is centered on objects called GameObject, which are formed by Components. All of this formed a versatile structure to configure 3D elements, scripts, textures, etc."), n.a.createElement("p", null, n.a.createElement("span", {
 							    class: "my-highlight"
-                            }, " \uae30\ud68d \ubc0f \ub514\uc790\uc778 \uc791\uc5c5 "), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("img", {
+                            }, "Here are some screenshots"), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("img", {
                                 class: "ncs-images",
-                                src: "./images/fivefingers/realpet_design.jpg",
-                                alt: "realpet_dog_design"
+                                src: "./images/tfg/tfg_1.jpg",
+                                alt: "tfg_1"
                             }), "\xa0", n.a.createElement("img", {
                                 class: "ncs-images",
-                                src: "./images/fivefingers/realpet_gps_form1.jpg",
-                                alr: "realpet_form1"
+                                src: "./images/tfg/tfg_2.jpg",
+                                alt: "tfg_2"
                             }), "\xa0", n.a.createElement("img", {
                                 class: "ncs-images",
-                                src: "./images/fivefingers/realpet_gps_form2.jpg",
-                                alt: "realpet_form2"
+                                src: "./images/tfg/tfg_3.jpg",
+                                alt: "tfg_3"
                             }), "\xa0", n.a.createElement("img", {
                                 class: "ncs-images",
-                                src: "./images/fivefingers/realpet_gps_form3.jpg",
-                                alt: "realpet_form3"
-                            }), "\xa0", n.a.createElement("br", null), "< \uce90\ub9ad\ud130 \ub514\uc790\uc778 \xb7 \ub9ac\uc5bc\ud3ab \uae30\ud68d - 2016 \uc704\uce58\uae30\ubc18 \uc571/\uc6f9 \uc544\uc774\ub514\uc5b4 \uacf5\ubaa8\uc804 \ucc38\uac00\uc2e0\uccad\uc11c >"), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2012"), "\u2003\u2003\u2003\u2003\u2003 I entered Seville University, Computer Software degree.")))))))
+                                src: "./images/tfg/tfg_4.jpg",
+                                alt: "tfg_4"
+                            }), "\xa0", n.a.createElement("br", null), "< \uce90\ub9ad\ud130 \ub514\uc790\uc778 \xb7 \ub9ac\uc5bc\ud3ab \uae30\ud68d - 2016 \uc704\uce58\uae30\ubc18 \uc571/\uc6f9 \uc544\uc774\ub514\uc5b4 \uacf5\ubaa8\uc804 \ucc38\uac00\uc2e0\uccad\uc11c >"), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2012"), "\u2003\u2003\u2003\u2003\u2003  I entered Seville University, Computer Software degree.")))))))
                         }
                     }]), l
                 }(t.Component),
@@ -588,7 +588,7 @@
                                 duration: "1.2s"
                             }, n.a.createElement("h3", null, n.a.createElement("span", null, "CONTACT")), n.a.createElement("p", {
                                 className: "address"
-                            }, n.a.createElement("span", null, "\ud83e\udd17 Alberto García Sánchez \xa0\xa0\xa0\xa0"), n.a.createElement("span", null, "\ud83c\udfe1 Alcalá de Guadaira, Sevilla, España \uD83C\uDDEA\uD83C\uDDF8"), n.a.createElement("br", null), n.a.createElement("span", null, "\ud83d\udcf1 (+34)  633 80 11 28\xa0\xa0\xa0\xa0\xa0\xa0\xa0"), n.a.createElement("span", null, n.a.createElement("a", {
+                            }, n.a.createElement("span", null, "\ud83e\udd17 Alberto García Sánchez \xa0\xa0\xa0\xa0"), n.a.createElement("span", null, "\ud83c\udfe1 Alcala de Guadaira, Seville, Spain \uD83C\uDDEA\uD83C\uDDF8"), n.a.createElement("br", null), n.a.createElement("span", null, "\ud83d\udcf1 (+34)  633 80 11 28\xa0\xa0\xa0\xa0\xa0\xa0\xa0"), n.a.createElement("span", null, n.a.createElement("a", {
                                 href: "mailto:albgarsanuni@gmail.com"
                             }, "\ud83c\udf3c \xa0albgarsanuni@gmail.com")))))
                         }
