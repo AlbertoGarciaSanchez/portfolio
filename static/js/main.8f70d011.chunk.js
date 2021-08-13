@@ -68,7 +68,7 @@
                                 className: "row banner"
                             }, n.a.createElement("div", {
                                 className: "icons-profile"
-                            }, n.a.createElement("p", null, "\ud83c\udfbe\uD83C\uDFB2\ud83c\udfb5\ud83c\udfa4\ud83c\udfac\ud83d\udcf7\ud83c\udf0f\ud83c\udf31\ud83c\udf56\ud83c\udf70\uD83D\uDC3A"), n.a.createElement("img", {
+                            }, n.a.createElement("p", null, "\ud83c\udfbe\uD83C\uDFB2\ud83c\udfb5\ud83c\udfa4\ud83c\udfac\ud83d\udcf7\ud83c\udf0f\ud83c\udf31\ud83c\udf56\ud83c\udf70\uD83D\uDC3A\uD83D\uDCD6"), n.a.createElement("img", {
                                 className: "profile-pic",
                                 src: "./images/profilepic.jpg",
                                 alt: "photo"
@@ -421,7 +421,10 @@
                                 class: "finfo-img",
                                 src: "./images/finfo/finfo_jhj-3.jpg",
                                 alt: "Single-photo summary 3"
-                            }), n.a.createElement("br", null), n.a.createElement("br", null))))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2019.12"), "\u2003\u2003\u2003\u2003\u2003\uc804\uc790\uc815\ubd80 \ud45c\uc900 \ud504\ub808\uc784\uc6cc\ud06c \uad50\uc721 \uc774\uc218"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018 - 2020"), "\u2003\u2003\u2003 Skylife Engineering - I was involved in 3 different European Projects - Clean Sky 2")), n.a.createElement(h.e, null, n.a.createElement("br", null),n.a.createElement("h2", null, "DILECO"),n.a.createElement("br", null),n.a.createElement("br", null),n.a.createElement("img", {
+                            }), n.a.createElement("br", null), n.a.createElement("br", null))))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2020"), "\u2003\u2003\u2003\u2003\u2003\u2003 Expert Course in VFX and Shader Graph with Unity 2019.")), n.a.createElement(h.e, null, n.a.createElement("br", null),n.a.createElement("img", {
+                                src: "./images/udemy/shaderVFX.png",
+                                alt: "Shaders VFX"
+                            }))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018 - 2020"), "\u2003\u2003\u2003 Skylife Engineering - I was involved in 3 different European Projects - Clean Sky 2")), n.a.createElement(h.e, null, n.a.createElement("br", null),n.a.createElement("h2", null, "DILECO"),n.a.createElement("br", null),n.a.createElement("br", null),n.a.createElement("img", {
                                 src: "./images/csk2/dileco.png",
                                 alt: "Dileco"
                             }), n.a.createElement("br", null),n.a.createElement("br", null),n.a.createElement("h2", null, "ARIESS"), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("img", {
