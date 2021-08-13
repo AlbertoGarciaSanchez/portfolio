@@ -68,7 +68,7 @@
                                 className: "row banner"
                             }, n.a.createElement("div", {
                                 className: "icons-profile"
-                            }, n.a.createElement("p", null, "\ud83d\udc2e\ud83c\udfca\ud83c\udfb5\ud83c\udfa4\ud83c\udfac\ud83d\udcf7\ud83c\udf0f\ud83c\udf31\ud83c\udf56\ud83c\udf70\ud83e\udde1"), n.a.createElement("img", {
+                            }, n.a.createElement("p", null, "\ud83c\udfbe\uD83C\uDFB2\ud83c\udfb5\ud83c\udfa4\ud83c\udfac\ud83d\udcf7\ud83c\udf0f\ud83c\udf31\ud83c\udf56\ud83c\udf70\uD83D\uDC3A"), n.a.createElement("img", {
                                 className: "profile-pic",
                                 src: "./images/profilepic.jpg",
                                 alt: "photo"
@@ -276,11 +276,7 @@
                                 class: "title"
                             }, n.a.createElement("span", null, "EXPERIENCE")), n.a.createElement("p", {
                                 class: "text"
-                            }, "\uc27d\uac8c \uc0ac\uc6a9 \uac00\ub2a5\ud55c \uc6f9\uc0ac\uc774\ud2b8\ub97c \ubaa9\ud45c\ub85c \uc81c \uc774\ub984\xa0", n.a.createElement("span", {
-                                class: "my-highlight"
-                            }, "\u5468(\ub450\ub8e8,\uc8fc)"), " \uc758 \uc758\ubbf8\ucc98\ub7fc", n.a.createElement("br", null), n.a.createElement("span", {
-                                class: "my-highlight"
-                            }, "\ub514\uc790\uc778 - \ud504\ub860\ud2b8 - \ubc31\uc5d4\ub4dc \uae30\ub2a5 \uac1c\ubc1c"), "\xa0\uc5d0 \ub450\ub8e8\ub450\ub8e8 \ucc38\uc5ec\ud558\uc600\uc2b5\ub2c8\ub2e4", n.a.createElement("br", null), "\uff0a\ud83c\udf31 \u27a1 \ud504\ub85c\uc81d\ud2b8 \ub0b4\uc6a9\uc774 \ucca8\ubd80\ub418\uc5b4 \uc788\uc73c\ub2c8 \uc0b4\ud3b4\ubd10\uc8fc\uc138\uc694 !")))), " ", n.a.createElement("p", null), n.a.createElement(h.a, {
+                            }, "Here is a summary of my working life")))), " ", n.a.createElement("p", null), n.a.createElement(h.a, {
                                 allowZeroExpanded: !0
                             }, n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2021.06"), "\u2003\u2003\u2003\u2003\u2003AWS Certified Developer - Associate \uc790\uaca9\uc99d \ucde8\ub4dd"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2021.01-02"), "\u2003\u2003\u2003\xa0\uc2e0\uc138\uacc4 \uc774\ub9c8\ud2b8 \uc124 \uba85\uc808 TF"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2020.11-12"), "\u2003\u2003\u2003\xa0\ud83c\udf31 \uba40\ud2f0\ucea0\ud37c\uc2a4 2020\ub144 \uccad\ub144\ucde8\uc5c5\uc544\uce74\ub370\ubbf8 \uad50\uc721 \uc774\uc218")), n.a.createElement(h.e, null, n.a.createElement("div", {
                                 class: "info-20201112"
