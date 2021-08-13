@@ -421,9 +421,21 @@
                                 class: "finfo-img",
                                 src: "./images/finfo/finfo_jhj-3.jpg",
                                 alt: "Single-photo summary 3"
-                            }), n.a.createElement("br", null), n.a.createElement("br", null))))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2019.12"), "\u2003\u2003\u2003\u2003\u2003\uc804\uc790\uc815\ubd80 \ud45c\uc900 \ud504\ub808\uc784\uc6cc\ud06c \uad50\uc721 \uc774\uc218"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018 - 2020"), "\u2003\u2003\u2003 Skylife Engineering - I was involved in European Projects - Clean Sky 2")), n.a.createElement(h.e, null, n.a.createElement("br", null),n.a.createElement("h2", null, "DILECO"),n.a.createElement("br", null),n.a.createElement("br", null),n.a.createElement("img", {
+                            }), n.a.createElement("br", null), n.a.createElement("br", null))))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2019.12"), "\u2003\u2003\u2003\u2003\u2003\uc804\uc790\uc815\ubd80 \ud45c\uc900 \ud504\ub808\uc784\uc6cc\ud06c \uad50\uc721 \uc774\uc218"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018 - 2020"), "\u2003\u2003\u2003 Skylife Engineering - I was involved in 3 different European Projects - Clean Sky 2")), n.a.createElement(h.e, null, n.a.createElement("br", null),n.a.createElement("h2", null, "DILECO"),n.a.createElement("br", null),n.a.createElement("br", null),n.a.createElement("img", {
                                 src: "./images/csk2/dileco.png",
                                 alt: "Dileco"
+                            }), n.a.createElement("br", null),n.a.createElement("br", null),n.a.createElement("h2", null, "ARIESS"), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("img", {
+                                src: "./images/csk2/ariess.png",
+                                alt: "ARIESS"
+                            }), n.a.createElement("br", null),n.a.createElement("br", null), n.a.createElement("img", {
+                                src: "./images/csk2/harvis_0.png",
+                                alt: "HARVIS_0"
+                            }), n.a.createElement("br", null),n.a.createElement("br", null), n.a.createElement("img", {
+                                src: "./images/csk2/harvis_1.png",
+                                alt: "HARVIS_1"
+                            }), n.a.createElement("br", null),n.a.createElement("br", null), n.a.createElement("img", {
+                                src: "./images/csk2/harvis_2.png",
+                                alt: "HARVIS_2"
                             }))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2016 - 2018"), "\u2003\u2003\u2003 Skylife Engineering - I was involved in Aircrafts Software Dataloading projects"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018"), "\u2003\u2003\u2003\u2003\u2003\u2003 Introductory course to videogame design (3rd Edition)")), n.a.createElement(h.e, null, n.a.createElement("br", null),n.a.createElement("img", {
                                 src: "./images/miriadax/miriadax.png",
                                 alt: "MiriadaX"
