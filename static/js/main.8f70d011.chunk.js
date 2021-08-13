@@ -447,75 +447,7 @@
                                 class: "ptam-source",
                                 src: "./images/ptam/ptam_system.png",
                                 alr: "ptam_system"
-                            }))))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018.02-09"), "\u2003\u2003\u2003\xa0\ud83c\udf31 \ucde8\uc131\ud328 \uc790\ubc14 \ud504\ub808\uc784\uc6cc\ud06c \uac1c\ubc1c\uc790 \uc591\uc131\uacfc\uc815 \uad50\uc721 \uc774\uc218")), n.a.createElement(h.e, null, n.a.createElement("div", {
-                                class: "info-20180209"
-                            }, n.a.createElement("p", null, "\uc790\ubc14 \ud504\ub808\uc784\uc6cc\ud06c \uac1c\ubc1c\uc790 \uc591\uc131\uacfc\uc815 \uad50\uc721\uc744 \ucd9c\uc11d\ub960 95%\ub85c \uc218\ub8cc\ud588\uace0", n.a.createElement("br", null), "\uc6f9 \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uc744 \ud1b5\ud574 \uc790\ubc14(JAVA) \ud504\ub808\uc784\uc6cc\ud06c \uac1c\ubc1c\uc790\ub85c\uc11c\uc758 \uae30\ubc18\uc744 \uc775\ud614\uc2b5\ub2c8\ub2e4"), n.a.createElement("p", null, n.a.createElement("span", {
-                                class: "my-highlight"
-                            }, " \ud559\uc2b5\uae30\uc220 "), n.a.createElement("br", null), "Oracle\u2003SQL Programming\u2003Mybatis\u2003Java", n.a.createElement("br", null), "Servlet\u2003Jsp\u2003Spring Framework\u2003JavaScript\u2003Ajax"), n.a.createElement("p", null, n.a.createElement("span", {
-                                class: "my-highlight"
-                            }, " \uc138\ubbf8\xb7\ud30c\uc774\ub110 \ud504\ub85c\uc81d\ud2b8 "), n.a.createElement("br", null), "\ud83d\udccc\ud574\ub2f9 \ud504\ub85c\uc81d\ud2b8 \ub0b4\uc6a9\uc774 \ub2f4\uae34 \ub178\uc158\uc73c\ub85c \uc774\ub3d9\ud558\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4!"), n.a.createElement("div", {
-                                class: "container"
-                            }, n.a.createElement("div", {
-                                class: "project-box"
-                            }, n.a.createElement("div", {
-                                class: "col-lg-4-col-sm-6",
-                                id: "imgBox"
-                            }, n.a.createElement("div", {
-                                class: "team-style-eleven text-center mt-30 wow fadeIn",
-                                "data-wow-duration": "1s",
-                                "data-wow-delay": "0s"
-                            }, n.a.createElement("div", {
-                                class: "team-image"
-                            }, n.a.createElement("img", {
-                                src: "./images/team-1.jpg",
-                                alt: "Team"
-                            })), n.a.createElement("div", {
-                                class: "team-content"
-                            }, n.a.createElement("div", {
-                                class: "team-social"
-                            }, n.a.createElement("ul", {
-                                class: "social"
-                            }, n.a.createElement("li", null, n.a.createElement("a", {
-                                href: "https://www.notion.so/nyozu/memoG-1495fe30a7d148b6b1421b5c71394b0a",
-                                target: "_blank"
-                            }, n.a.createElement("i", {
-                                class: "fa fa-plus"
-                            }))))), n.a.createElement("h4", {
-                                class: "team-name"
-                            }, n.a.createElement("a", {
-                                href: "#"
-                            }, "memoG")), n.a.createElement("span", {
-                                class: "sub-title"
-                            }, "\uba54\ubaa8\uc7a5 \uae30\ub2a5 \uae30\ubc18 \uc6f9\uc0ac\uc774\ud2b8", n.a.createElement("br", null), "Java\u2003Oracle\u2003Jsp\u2003Css\u2003Js")))), n.a.createElement("div", {
-                                class: "col-lg-4-col-sm-6",
-                                id: "imgBox"
-                            }, n.a.createElement("div", {
-                                class: "team-style-eleven text-center mt-30 wow fadeIn",
-                                "data-wow-duration": "1s",
-                                "data-wow-delay": "0s"
-                            }, n.a.createElement("div", {
-                                class: "team-image"
-                            }, n.a.createElement("img", {
-                                src: "./images/team-2.jpg",
-                                alt: "Team"
-                            })), n.a.createElement("div", {
-                                class: "team-content"
-                            }, n.a.createElement("div", {
-                                class: "team-social"
-                            }, n.a.createElement("ul", {
-                                class: "social"
-                            }, n.a.createElement("li", null, n.a.createElement("a", {
-                                href: "https://www.notion.so/nyozu/9c424200e4174f6ea82224a21417d65d",
-                                target: "_blank"
-                            }, n.a.createElement("i", {
-                                class: "fa fa-plus"
-                            }))))), n.a.createElement("h4", {
-                                class: "team-name"
-                            }, n.a.createElement("a", {
-                                href: "#"
-                            }, "\uc218\ub77d\uac04")), n.a.createElement("span", {
-                                class: "sub-title"
-                            }, "\ucee4\uc2a4\ud140 \uac00\ub2a5\ud55c \ub3c4\uc2dc\ub77d \uc8fc\ubb38 \uc6f9\uc0ac\uc774\ud2b8", n.a.createElement("br", null), "Spring\u2003MVC\u2003REST API"))))))), n.a.createElement("br", null), n.a.createElement("br", null))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018.07-08"), "\u2003\u2003\u2003\xa0\ud604\uc7a5\uc2e4\uc2b5 (\uc8fc)\uba54\ud0c0\uc18c\ud504\ud2b8"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2016"), "\u2003\u2003\u2003\u2003\u2003\u2003 Graduate of the University of Seville, Computer Software Engineering.")), n.a.createElement(h.e, null, n.a.createElement("div", {
+                            }))))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018"), "\u2003\u2003\u2003\u2003\u2003\u2003 Introductory course to videogame design (3rd Edition)")), n.a.createElement(h.e, null, n.a.createElement("br", null))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "End of 2016"), "\u2003\u2003\u2003  \uD83D\uDEE9 I was hired at Skylife Engineering. "))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2016"), "\u2003\u2003\u2003\u2003\u2003\u2003 Graduate of the University of Seville, Computer Software Engineering.")), n.a.createElement(h.e, null, n.a.createElement("div", {
                                 class: "info-20170209"
                             }, n.a.createElement("p", null, "Average grade: 8"), n.a.createElement("p", null, n.a.createElement("span", {
                                 class: "my-highlight"
@@ -523,7 +455,7 @@
                                 class: "ncs-images2",
                                 src: "./images/ncs/egresado.jpg",
                                 alt: "ncs_pamphlet_cover2"
-                            })), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2015-2016"), "\u2003\u2003\u2003\u2003Final Degree Project")), n.a.createElement(h.e, null, n.a.createElement("div", {
+                            })), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2015-2016"), "\u2003\u2003\u2003  Final Degree Project")), n.a.createElement(h.e, null, n.a.createElement("div", {
                                 class: "info-20160512"
                             }, n.a.createElement("p", null, "This final project was my first contact with videogame development engines. In it, we applied the knowledge of computer engineering development to make a proof of concept of a 3D videogame. For planning we used Trello in a similar way to agile methodologies. Also, we made from mockups of the different parts of the user interface, to automatic generation of terrain elevations with heightmaps.", n.a.createElement("br", null), n.a.createElement("br", null), "Technically, the first thing was to get to know the class structure offered by Unity, which is centered on objects called GameObject, which are formed by Components. All of this formed a versatile structure to configure 3D elements, scripts, textures, etc."), n.a.createElement("p", null, n.a.createElement("span", {
 							    class: "my-highlight"
