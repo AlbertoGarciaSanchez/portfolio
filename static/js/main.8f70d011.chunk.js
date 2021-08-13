@@ -515,33 +515,13 @@
                                 href: "#"
                             }, "\uc218\ub77d\uac04")), n.a.createElement("span", {
                                 class: "sub-title"
-                            }, "\ucee4\uc2a4\ud140 \uac00\ub2a5\ud55c \ub3c4\uc2dc\ub77d \uc8fc\ubb38 \uc6f9\uc0ac\uc774\ud2b8", n.a.createElement("br", null), "Spring\u2003MVC\u2003REST API"))))))), n.a.createElement("br", null), n.a.createElement("br", null))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018.07-08"), "\u2003\u2003\u2003\xa0\ud604\uc7a5\uc2e4\uc2b5 (\uc8fc)\uba54\ud0c0\uc18c\ud504\ud2b8"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2017.02-09"), "\u2003\u2003\u2003\xa0\ud83c\udf31 \uc11c\uc77c\ub300\ud559\uad50 NCS\uc9c0\uc6d0\uc13c\ud130 \uadfc\ub85c\uc7a5\ud559\uc0dd")), n.a.createElement(h.e, null, n.a.createElement("div", {
+                            }, "\ucee4\uc2a4\ud140 \uac00\ub2a5\ud55c \ub3c4\uc2dc\ub77d \uc8fc\ubb38 \uc6f9\uc0ac\uc774\ud2b8", n.a.createElement("br", null), "Spring\u2003MVC\u2003REST API"))))))), n.a.createElement("br", null), n.a.createElement("br", null))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018.07-08"), "\u2003\u2003\u2003\xa0\ud604\uc7a5\uc2e4\uc2b5 (\uc8fc)\uba54\ud0c0\uc18c\ud504\ud2b8"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2016"), "Graduate of the University of Seville, Computer Software Engineering.")), n.a.createElement(h.e, null, n.a.createElement("div", {
                                 class: "info-20170209"
-                            }, n.a.createElement("p", null, "\uad50\ub0b4 NCS \uc13c\ud130\uc5d0\uc11c \uccad\uacb0\uc720\uc9c0, \ubc29\ubb38 \uc190\ub2d8 \uc751\ub300, \ube44\ud488\uad00\ub9ac\ub97c \ud588\uc73c\uba70 \uc5d1\uc140\uacfc PPT\ub97c \ud65c\uc6a9\ud574 \ubb38\uc11c \uc5c5\ubb34\ub97c \uc9c4\ud589\ud588\uc2b5\ub2c8\ub2e4. NCS \uc13c\ud130\ub2f5\uac8c \uac01 \ud559\uacfc\ubcc4\ub85c NCS\uac00 \uc798 \uc801\uc6a9\ub418\uace0 \uc788\ub294\uc9c0\uc5d0 \ub300\ud55c <\ubcf4\uace0\uc11c \uc791\uc131 \uac00\uc774\ub4dc> \uc81c\uc791\uc744 \ub3c4\uc654\uace0 \ud559\uacfc\uc5d0 \ubc30\ud3ec\ud558\uc600\uc73c\uba70 \ubc30\ud3ec\ub41c \ubcf4\uace0\uc11c\ub97c \ub2e4\uc2dc \ucde8\ud569\ud574 \uc815\ub9ac\ud558\uc600\uc2b5\ub2c8\ub2e4. \uadf8 \u5916 \ud3ec\ud1a0\uc0f5\uc73c\ub85c \ud589\uc0ac \uc9c4\ud589\uc5d0 \ud544\uc694\ud55c \ud604\uc218\ub9c9, \ud3ec\uc2a4\ud130, \uc548\ub0b4 \ucc45\uc790\ub97c \uc81c\uc791\ud588\uc2b5\ub2c8\ub2e4."), n.a.createElement("p", null, n.a.createElement("span", {
+                            }, n.a.createElement("p", null, "Average grade: 8"), n.a.createElement("p", null, n.a.createElement("span", {
                                 class: "my-highlight"
-                            }, " \ub514\uc790\uc778 \uc791\uc5c5 "), n.a.createElement("br", null), n.a.createElement("img", {
+                            }, "Highest honors: Modeling and numerical simulation."), n.a.createElement("br", null), n.a.createElement("img", {
                                 class: "ncs-images",
-                                src: "./images/ncs/ncs_banner.jpg",
-                                alr: "ncs_banner"
-                            }), "\xa0", n.a.createElement("img", {
-                                class: "ncs-images",
-                                src: "./images/ncs/ncs_book_cover.jpg",
-                                alt: "ncs_bool_cover"
-                            }), "\xa0", n.a.createElement("img", {
-                                class: "ncs-images",
-                                src: "./images/ncs/ncs_background_paper.png",
-                                alt: "ncs_paper"
-                            }), "\xa0", n.a.createElement("img", {
-                                class: "ncs-images",
-                                src: "./images/ncs/pamphlet_back.jpg",
-                                alt: "ncs_pamphlet"
-                            }), "\xa0", n.a.createElement("img", {
-                                class: "ncs-images",
-                                src: "./images/ncs/ncs_pamphlet_cover.jpg",
-                                alt: "ncs_pamphlet_cover"
-                            }), "\xa0", n.a.createElement("img", {
-                                class: "ncs-images",
-                                src: "./images/ncs/ncs_pamphlet_cover2.jpg",
+                                src: "./images/ncs/egresado.jpg",
                                 alt: "ncs_pamphlet_cover2"
                             })), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2015-2016"), "\u2003\u2003\u2003Final Degree Project")), n.a.createElement(h.e, null, n.a.createElement("div", {
                                 class: "info-20160512"
@@ -559,7 +539,7 @@
                             }), "\xa0", n.a.createElement("img", {
                                 src: "./images/tfg/tfg_4.png",
                                 alt: "tfg_4"
-                            }), "\xa0", n.a.createElement("br", null), ""), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2012"), "\u2003\u2003\u2003\u2003\u2003  I entered Seville University, Computer Software degree.")))))))
+                            }), "\xa0", n.a.createElement("br", null), ""), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2012"), "\u2003\u2003\u2003\u2003\u2003  I entered Seville University, Computer Software Engineering degree.")))))))
                         }
                     }]), l
                 }(t.Component),
