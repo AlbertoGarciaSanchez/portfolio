@@ -519,11 +519,11 @@
                                 class: "info-20170209"
                             }, n.a.createElement("p", null, "Average grade: 8"), n.a.createElement("p", null, n.a.createElement("span", {
                                 class: "my-highlight"
-                            }, "Highest honors: Modeling and numerical simulation."), n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "ncs-images",
+                            }, "Highest honors: Modeling and numerical simulation."), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("img", {
+                                class: "ncs-images2",
                                 src: "./images/ncs/egresado.jpg",
                                 alt: "ncs_pamphlet_cover2"
-                            })), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2015-2016"), "\u2003\u2003\u2003Final Degree Project")), n.a.createElement(h.e, null, n.a.createElement("div", {
+                            })), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2015-2016"), "\u2003\u2003\u2003\u2003Final Degree Project")), n.a.createElement(h.e, null, n.a.createElement("div", {
                                 class: "info-20160512"
                             }, n.a.createElement("p", null, "This final project was my first contact with videogame development engines. In it, we applied the knowledge of computer engineering development to make a proof of concept of a 3D videogame. For planning we used Trello in a similar way to agile methodologies. Also, we made from mockups of the different parts of the user interface, to automatic generation of terrain elevations with heightmaps.", n.a.createElement("br", null), n.a.createElement("br", null), "Technically, the first thing was to get to know the class structure offered by Unity, which is centered on objects called GameObject, which are formed by Components. All of this formed a versatile structure to configure 3D elements, scripts, textures, etc."), n.a.createElement("p", null, n.a.createElement("span", {
 							    class: "my-highlight"
