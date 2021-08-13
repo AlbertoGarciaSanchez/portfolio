@@ -342,89 +342,14 @@
                                 class: "project-more-logo",
                                 src: "./images/bookfind/github-logo.png",
                                 alt: "githublogo"
-                            })))))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2020.11"), "\u2003\u2003\u2003\u2003\u2003\uc815\ubcf4\ucc98\ub9ac\uae30\uc0ac \uc790\uaca9\uc99d \ucde8\ub4dd"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2020.02"), "\u2003\u2003\u2003\u2003\u2003\ud83c\udf31 \uc11c\uc77c\ub300\ud559\uad50 \uc18c\ud504\ud2b8\uc6e8\uc5b4\uacf5\ud559\uacfc \ud559\uc0ac\uc2ec\ud654\uacfc\uc815 \uc878\uc5c5")), n.a.createElement(h.e, null, n.a.createElement("div", {
-                                class: "info-20202"
-                            }, n.a.createElement("p", null, "1\ud559\uae30 <\uace0\uae09 \uc6f9 \uc2e4\ubb34> \uacfc\ubaa9\uc5d0\uc11c \uc9c4\ud589\ud55c \ud504\ub85c\uc81d\ud2b8\uc785\ub2c8\ub2e4", n.a.createElement("br", null), n.a.createElement("br", null)), n.a.createElement("p", null, n.a.createElement("span", {
-                                class: "my-highlight"
-                            }, "\ud504\ub85c\uc81d\ud2b8"), n.a.createElement("br", null), "<F.info>\ub294 Festival Info\uc758 \uc57d\uc790\uc785\ub2c8\ub2e4. \uad6d\ub0b4 \ucd95\uc81c\uc640 \uad00\ub828\ub41c \uc815\ubcf4\ub97c \uc0ac\uc6a9\uc790 \ubcf8\uc778\uc774 \uc120\ud638\ud558\ub294 \uc7a5\ub974\uc5d0 \ub530\ub77c", n.a.createElement("br", null), "\uc6b0\uc120\uc801\uc73c\ub85c \ud655\uc778\ud560 \uc218 \uc788\uc73c\uba70 \ub2e4\ub140\uc628 \ucd95\uc81c\uc5d0 \ub300\ud574 \ub9ac\ubdf0\ub97c \ub0a8\uae38 \uc218 \uc788\uc2b5\ub2c8\ub2e4.", n.a.createElement("br", null), "\uad00\ub9ac\uc790\ub294 \uad00\ub9ac\uc790 \ud398\uc774\uc9c0\ub97c \ud1b5\ud574 \ud68c\uc6d0 \uc0c1\ud0dc \uad00\ub9ac \xb7 \ucd95\uc81c \uc0c1\ud0dc \uad00\ub9ac \ubc0f CRUD\ub97c \uc774\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.", n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "finfo-images",
-                                src: "./images/finfo/finfo_logo.png",
-                                alt: "project_finfo"
-                            })), n.a.createElement("p", null, n.a.createElement("span", {
-                                class: "my-highlight"
-                            }, "\uac1c\ubc1c\ud658\uacbd"), n.a.createElement("br", null), "Window10 64bit\u2003Mysql\u2003Eclipse\u2003Java\u2003SpringMVC", n.a.createElement("br", null), "Jsp\u2003Css\u2003Javascript\u2003Mybatis\u2003REST\u2003Apache", n.a.createElement("br", null), n.a.createElement("br", null)), n.a.createElement("p", null, n.a.createElement("span", {
-                                class: "my-highlight"
-                            }, " \uac1c\ubc1c\uae30\uac04 / \ucc38\uc5ec\uc778\uc6d0 "), n.a.createElement("br", null), "2019\ub144 5\uc6d4 14\uc77c ~ 6\uc6d4 19\uc77c, 5\uc8fc / 5\uba85", n.a.createElement("br", null), n.a.createElement("br", null)), n.a.createElement("p", null, n.a.createElement("span", {
-                                class: "my-highlight"
-                            }, "\ub2f4\ub2f9\uc5ed\ud560"), n.a.createElement("br", null), "\ud074\ub77c\uc774\uc5b8\ud2b8 \ub2e8\uc5d0\uc11c\ub294 \ud68c\uc6d0\uac00\uc785 \ubc31\uc5d4\ub4dc\uc640 \ub85c\uadf8\uc778/\ud68c\uc6d0\uac00\uc785 \xb7 \uba54\uc778 \ud398\uc774\uc9c0\uc758 \ud504\ub7f0\ud2b8\uc5d4\ub4dc\ub97c \ub9e1\uc558\uace0", n.a.createElement("br", null), "\uad00\ub9ac\uc790 \ub2e8\uc5d0\uc11c\ub294 \ud480\uc2a4\ud0dd. \uc989, \uc804\uccb4 \uac1c\ubc1c\uc744 \ub9e1\uc544 \ud504\ub85c\uc81d\ud2b8\ub97c \uc9c4\ud589\ud588\uc2b5\ub2c8\ub2e4.", n.a.createElement("br", null), n.a.createElement("br", null)), n.a.createElement("p", null, n.a.createElement("span", {
-                                class: "my-highlight"
-                            }, "\uae30\ub2a5\uad6c\ud604"), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "finfo-img",
-                                src: "./images/finfo/finfo-join1.gif",
-                                alt: "finfo-join1"
-                            }), n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "finfo-img",
-                                src: "./images/finfo/finfo-join2.png",
-                                alt: "finfo-join2"
-                            }), n.a.createElement("br", null), "<\ud074\ub77c\uc774\uc5b8\ud2b8> \ud68c\uc6d0\uac00\uc785 \ubc31\uc5d4\ub4dc \u26a1", n.a.createElement("br", null), "\ud68c\uc6d0\uac00\uc785\uc5d0 \uc694\uad6c\ub418\ub294 \uc815\ubcf4(\uc774\uba54\uc77c, \ube44\ubc00\ubc88\ud638, \uc774\ub984, \uc120\ud638\uc7a5\ub974) \uc785\ub825 \ud3fc\uc774 \ub098\ud0c0\ub098\uba70", n.a.createElement("br", null), "\ube44\ubc00\ubc88\ud638\ub294 ", n.a.createElement("span", {
-                                class: "understyle"
-                            }, "Bcrypt\uc758 \ud574\uc2dc \uc54c\uace0\ub9ac\uc998"), "\uc744 \ud1b5\ud574 \uc554\ud638\ud654\ub418\uc5b4 DB\uc5d0 \uc800\uc7a5", n.a.createElement("br", null), "\ud3fc \ub370\uc774\ud130\ub294 \ubaa8\ub450 \uae30\uc785\ud574\uc57c \ud558\uba70 \uac00\uc785 \uc131\uacf5 \uc2dc \ud658\uc601 \uc54c\ub9bc\ucc3d\uacfc \ud568\uaed8 \ub85c\uadf8\uc778 \ud398\uc774\uc9c0\ub85c \uc774\ub3d9", n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "finfo-img",
-                                src: "./images/finfo/finfo-user-search.gif",
-                                alt: "finfo-user-search"
-                            }), n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "finfo-img",
-                                src: "./images/finfo/finfo-festival-search.gif",
-                                at: "finfo-festival-search"
-                            }), n.a.createElement("br", null), "<\uad00\ub9ac\uc790> \ud68c\uc6d0 \xb7 \ucd95\uc81c\uc5d0 \ub300\ud55c \uac80\uc0c9 \uae30\ub2a5 \u26a1", n.a.createElement("br", null), "\uac80\uc0c9 \uad6c\ubd84 \uac12\uc73c\ub85c ", n.a.createElement("span", {
-                                class: "understyle"
-                            }, "Users"), "\uc758 \uacbd\uc6b0 \uc774\ub984, \uc774\uba54\uc77c, \uc774\ub984 or \uc774\uba54\uc77c", n.a.createElement("br", null), n.a.createElement("span", {
-                                class: "understyle"
-                            }, "Festival"), "\uc758 \uacbd\uc6b0 \ucd95\uc81c \uba85, \uc7a5\ub974, \ucd95\uc81c \uba85 or \uc7a5\ub974\ub97c \uc120\ud0dd\ud574 \uac80\uc0c9 \uac00\ub2a5", n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "finfo-img",
-                                src: "./images/finfo/finfo-user-state.gif",
-                                alt: "finfo-user-state"
-                            }), n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "finfo-img",
-                                src: "./images/finfo/finfo-festival-state.png",
-                                alt: "finfo-festival-state"
-                            }), n.a.createElement("br", null), "<\uad00\ub9ac\uc790> \ud68c\uc6d0 \xb7 \ucd95\uc81c \uc0c1\ud0dc \ubcc0\uacbd \u26a1", n.a.createElement("br", null), "DB\uc5d0\uc11c \uc720\uc800 \uc0c1\ud0dc \uac12, \ucd95\uc81c \uc0c1\ud0dc \uac12\uc744 \ubd88\ub7ec\uc634. \uc774\ub54c \uad8c\ud55c \ubd80\uc5ec \ud56d\ubaa9 \ubcc0\uacbd \ud6c4 \uc218\uc815 \ubc84\ud2bc \ud074\ub9ad \uc2dc", n.a.createElement("br", null), "\ubc84\ud2bc \uc0c9\uc774 \ubcc0\uacbd\ub420 \ubfd0\ub9cc \uc544\ub2c8\ub77c \ubcc0\uacbd\ub41c \uc0c1\ud0dc \uac12\uc774 DB\uc5d0 \ubc18\uc601\ub428. \uc989, \ub9ac\uc2a4\ud2b8 \ud654\uba74\uc744 \ud1b5\ud574", n.a.createElement("br", null), "\ud68c\uc6d0 \uc0c1\ud0dc \ubc0f \ucd95\uc81c\uc758 \uc608\uc815-\uc9c4\ud589-\ub9c8\uac10 \uc0c1\ud0dc \uc5ec\ubd80\ub97c \ubc14\ub85c \uc218\uc815", n.a.createElement("br", null), "gif \uc608\uc2dc \u27a1 \uc77c\ubc18\ud68c\uc6d0 \uacc4\uc815\uc744 \uad00\ub9ac\uc790 \uc0c1\ud0dc\ub85c \ubcc0\uacbd\ud568\uc73c\ub85c\uc368 \uad00\ub9ac\uc790 \ud398\uc774\uc9c0\uc5d0 \uc811\uadfc\ud560 \uc218 \uc788\uac8c \ud568", n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "finfo-img",
-                                src: "./images/finfo/finfo-festival-crud.gif",
-                                alt: "finfo-crud"
-                            }), n.a.createElement("br", null), "<\uad00\ub9ac\uc790> \ucd95\uc81c CRUD \u26a1", n.a.createElement("br", null), "\uad00\ub9ac\uc790\uac00 \uc0c8\ub85c\uc6b4 \ucd95\uc81c \ub4f1\ub85d \ubc0f \uae30\uc874 \ucd95\uc81c\uc5d0 \ub300\ud55c \uc870\ud68c \xb7 \uc218\uc815 \xb7 \uc0ad\uc81c\ud560 \uc218 \uc788\uac8c\ub054 \uae30\ub2a5 \uad6c\ud604", n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "finfo-img",
-                                src: "./images/finfo/finfo-festival-ui.gif",
-                                alt: "finfo-ui"
-                            }), n.a.createElement("br", null), "\uadf8 \u5916 \u26a1", n.a.createElement("br", null), "\ub9c8\uc774\ud06c-CD \uc544\uc774\ucf58\uc744 \uae00\uc528\ucc98\ub7fc \uc774\uc6a9\ud574 \ud504\ub85c\uc81d\ud2b8 \uc758\ubbf8\uac00 \ub2f4\uae34 \ub85c\uace0 \uc81c\uc791", n.a.createElement("br", null), "\ubd80\ud2b8\uc2a4\ud2b8\ub7a9\uc744 \ud65c\uc6a9\ud55c \uba54\uc778-\ud68c\uc6d0\uac00\uc785-\ub85c\uadf8\uc778 \ud398\uc774\uc9c0 UI", n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("br", null)), n.a.createElement("p", null, n.a.createElement("span", {
-                                class: "my-highlight"
-                            }, "\ud504\ub85c\uc81d\ud2b8 \ub354 \uc0b4\ud3b4\ubcf4\uae30"), n.a.createElement("br", null), "* \ud558\ub2e8 \uc774\ubbf8\uc9c0 \ud074\ub9ad\uc73c\ub85c PPT\ub97c \ud655\uc778\ud574\ubcf4\uc138\uc694 !", n.a.createElement("br", null), n.a.createElement("a", {
-                                href: "https://drive.google.com/file/d/19cdSwmCpZJ8fZQxT09W2ARuVWZSmJXvo/view?usp=sharing",
-                                target: "_blank"
-                            }, n.a.createElement("img", {
-                                class: "finfo-source",
-                                src: "./images/finfo/finfo-ppt.png",
-                                alt: "finfo-ppt"
-                            }))), n.a.createElement("p", null, "* \ud504\ub85c\uc81d\ud2b8 UML \ub2e4\uc774\uc5b4\uadf8\ub7a8", n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "finfo-img",
-                                src: "./images/finfo/finfo-uml.jpg",
-                                alt: "finfo-uml"
-                            }), n.a.createElement("br", null)), n.a.createElement("p", null, "* \ud55c\ub208\uc5d0 \ubcf4\uae30", n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "finfo-img",
-                                src: "./images/finfo/finfo_jhj-1.jpg",
-                                alt: "Single-photo summary 1"
-                            }), n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "finfo-img",
-                                src: "./images/finfo/finfo_jhj-2.jpg",
-                                alt: "Single-photo summary 2"
-                            }), n.a.createElement("br", null), n.a.createElement("img", {
-                                class: "finfo-img",
-                                src: "./images/finfo/finfo_jhj-3.jpg",
-                                alt: "Single-photo summary 3"
-                            }), n.a.createElement("br", null), n.a.createElement("br", null))))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2020"), "\u2003\u2003\u2003\u2003\u2003\u2003 Expert Course in VFX and Shader Graph with Unity 2019.")), n.a.createElement(h.e, null, n.a.createElement("br", null),n.a.createElement("img", {
+                            })))))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2020.11"), "\u2003\u2003\u2003\u2003\u2003\uc815\ubcf4\ucc98\ub9ac\uae30\uc0ac \uc790\uaca9\uc99d \ucde8\ub4dd"))), 
+							n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2020"), "Skylife Engineering - Mini-Multi Interface Box Simulator")), n.a.createElement("br", null), n.a.createElement("h2", null, "Mini-Multi Interface Box Simulator (MMIBS)"), n.a.createElement("br", null), n.a.createElement("br", null)
+							, n.a.createElement("span", null, "The MMIBS (Mini-Multi Interface Box Simulator) is a very compact, portable, multipurpose, lightweight, low-power, and easy-of-use electronics test means intended to improve digital aircraft ground testing and maintenance troubleshooting. It is capable of perform functional testing and simulating aeronautical equipment through most common aeronautical communication interfaces, such as AFDX, CAN BUS, ARINC 429, MIL-STD-1553, RS-422, RS-232, RS-485, Discrete and Analog I/O and RVDT (Rotary Variable Differential Transformer) reading capabilities. Besides, the system is highly configurable and reprogrammable by means of intuitive Python-based scripting. System is also able to be controlled with an intuitive, user-friendly and dedicated HMI (Human Machine Interface). In this mode, the user can conform a MMIBS WIFI network, allowing multiple MMIBS operating in parallel to cover complex testing scenarios. The MMIBS device integrates all the aeronautical communication and signaling in a volume of 12x12x12cm and weight of 1200g and provides an autonomy of 5 hours. In this way, our solution combines performance, reliability, low maintenance costs, and ease-of-use to support efficient ground maintenance operations."), 
+							n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("span", null, "More information: https://iopscience.iop.org/article/10.1088/1757-899X/1024/1/012100")), 
+							n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2020"), "\u2003\u2003\u2003\u2003\u2003\u2003 Expert Course in VFX and Shader Graph with Unity 2019.")), n.a.createElement(h.e, null, n.a.createElement("br", null),n.a.createElement("img", {
                                 src: "./images/udemy/shaderVFX.png",
                                 alt: "Shaders VFX"
-                            }))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018 - 2020"), "\u2003\u2003\u2003 Skylife Engineering - I was involved in 3 different European Projects - Clean Sky 2")), n.a.createElement(h.e, null, n.a.createElement("br", null),n.a.createElement("h2", null, "DILECO"),n.a.createElement("br", null),n.a.createElement("br", null),n.a.createElement("img", {
+                            }))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018 - 2020"), "\u2003\u2003\u2003Skylife Engineering - I was involved in 3 different European Projects - Clean Sky 2")), n.a.createElement(h.e, null, n.a.createElement("br", null),n.a.createElement("h2", null, "DILECO"),n.a.createElement("br", null),n.a.createElement("br", null),n.a.createElement("img", {
                                 src: "./images/csk2/dileco.png",
                                 alt: "Dileco"
                             }), n.a.createElement("br", null),n.a.createElement("br", null),n.a.createElement("h2", null, "ARIESS"), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("img", {
@@ -442,7 +367,7 @@
                             }))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018"), "\u2003\u2003\u2003\u2003\u2003\u2003 Introductory course to videogame design (3rd Edition)")), n.a.createElement(h.e, null, n.a.createElement("br", null),n.a.createElement("img", {
                                 src: "./images/miriadax/miriadax.png",
                                 alt: "MiriadaX"
-                            }))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2016 - 2018"), "\u2003\u2003\u2003 Skylife Engineering - I was involved in Aircrafts Software Dataloading projects"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "End of 2016"), "\u2003\u2003\u2003 \uD83D\uDEE9 I was hired at Skylife Engineering. "))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2016"), "\u2003\u2003\u2003\u2003\u2003\u2003 Graduate of the University of Seville, Computer Software Engineering.")), n.a.createElement(h.e, null, n.a.createElement("div", {
+                            }))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2016 - 2018"), "\u2003\u2003\u2003 Skylife Engineering - I was involved in Aircrafts Software Dataloading projects"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "End of 2016"), "\u2003\u2003\u2003\uD83D\uDEE9 I was hired at Skylife Engineering. "))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2016"), "\u2003\u2003\u2003\u2003\u2003\u2003 Graduate of the University of Seville, Computer Software Engineering.")), n.a.createElement(h.e, null, n.a.createElement("div", {
                                 class: "info-20170209"
                             }, n.a.createElement("p", null, "Average score: 8"), n.a.createElement("p", null, n.a.createElement("span", {
                                 class: "my-highlight"
