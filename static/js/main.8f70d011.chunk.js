@@ -515,7 +515,7 @@
                                 href: "#"
                             }, "\uc218\ub77d\uac04")), n.a.createElement("span", {
                                 class: "sub-title"
-                            }, "\ucee4\uc2a4\ud140 \uac00\ub2a5\ud55c \ub3c4\uc2dc\ub77d \uc8fc\ubb38 \uc6f9\uc0ac\uc774\ud2b8", n.a.createElement("br", null), "Spring\u2003MVC\u2003REST API"))))))), n.a.createElement("br", null), n.a.createElement("br", null))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018.07-08"), "\u2003\u2003\u2003\xa0\ud604\uc7a5\uc2e4\uc2b5 (\uc8fc)\uba54\ud0c0\uc18c\ud504\ud2b8"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2016"), "Graduate of the University of Seville, Computer Software Engineering.")), n.a.createElement(h.e, null, n.a.createElement("div", {
+                            }, "\ucee4\uc2a4\ud140 \uac00\ub2a5\ud55c \ub3c4\uc2dc\ub77d \uc8fc\ubb38 \uc6f9\uc0ac\uc774\ud2b8", n.a.createElement("br", null), "Spring\u2003MVC\u2003REST API"))))))), n.a.createElement("br", null), n.a.createElement("br", null))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2018.07-08"), "\u2003\u2003\u2003\xa0\ud604\uc7a5\uc2e4\uc2b5 (\uc8fc)\uba54\ud0c0\uc18c\ud504\ud2b8"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2016"), "\u2003\u2003\u2003\u2003\u2003\u2003 Graduate of the University of Seville, Computer Software Engineering.")), n.a.createElement(h.e, null, n.a.createElement("div", {
                                 class: "info-20170209"
                             }, n.a.createElement("p", null, "Average grade: 8"), n.a.createElement("p", null, n.a.createElement("span", {
                                 class: "my-highlight"
@@ -539,7 +539,7 @@
                             }), "\xa0", n.a.createElement("img", {
                                 src: "./images/tfg/tfg_4.png",
                                 alt: "tfg_4"
-                            }), "\xa0", n.a.createElement("br", null), ""), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2012"), "\u2003\u2003\u2003\u2003\u2003  I entered Seville University, Computer Software Engineering degree.")))))))
+                            }), "\xa0", n.a.createElement("br", null), ""), n.a.createElement("br", null)))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2012"), "\u2003\u2003\u2003\u2003\u2003\u2003 I entered Seville University, Computer Software Engineering degree.")))))))
                         }
                     }]), l
                 }(t.Component),
