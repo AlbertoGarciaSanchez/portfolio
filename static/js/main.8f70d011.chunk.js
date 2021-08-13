@@ -444,7 +444,7 @@
                                 alt: "MiriadaX"
                             }))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2016 - 2018"), "\u2003\u2003\u2003 Skylife Engineering - I was involved in Aircrafts Software Dataloading projects"))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "End of 2016"), "\u2003\u2003\u2003 \uD83D\uDEE9 I was hired at Skylife Engineering. "))), n.a.createElement(h.b, null, n.a.createElement(h.d, null, n.a.createElement(h.c, null, n.a.createElement("b", null, "2016"), "\u2003\u2003\u2003\u2003\u2003\u2003 Graduate of the University of Seville, Computer Software Engineering.")), n.a.createElement(h.e, null, n.a.createElement("div", {
                                 class: "info-20170209"
-                            }, n.a.createElement("p", null, "Average grade: 8"), n.a.createElement("p", null, n.a.createElement("span", {
+                            }, n.a.createElement("p", null, "Average score: 8"), n.a.createElement("p", null, n.a.createElement("span", {
                                 class: "my-highlight"
                             }, "Highest honors: Modeling and numerical simulation."), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("br", null), n.a.createElement("img", {
                                 class: "ncs-images2",
